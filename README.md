@@ -47,7 +47,7 @@ pip install \
 1. **克隆项目**
 
    ```bash
-   git clone git@github.com:JieJieSAM/RumorDetection.git
+   git clone git@github.com:GuMiShDo666/RumorDetection.git
    cd RumorDetection
    ```
 
